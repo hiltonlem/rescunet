@@ -7,8 +7,6 @@ An answer to the 2019 Call for Code Challenge
 | Hilton Lem | hlem@ca.ibm.com |
 | Rui Ming Xiong | ruimingxiong@ibm.com |
 | Alex Hudici | dhudici@ca.ibm.com |
-| Rashed Ferdous | rashed.ferdous@ibm.com |
-| Sahil | sahil@ibm.com |
 
 # Introduction
 In a perfect world, rescuers would know the location and status of people in emergency situations. Rescunet is kind of like the hazard button on your car, but on your phone. It's an app that helps survivors with no internet access or cell signal be found or to find other people. 
